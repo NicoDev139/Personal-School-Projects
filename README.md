@@ -29,3 +29,6 @@ Project_8: Analysis and Comparison of Parking Tickets in Toronto and New York Ci
 
 Project_9: Analysis of Weather Patterns to Predict Hurricanes: A Jupyter notebook project focusing on the analysis of hurricanes’ trajectory to predict patterns and landfall by deploying the Gradient Boosting Regressor Algorithm and applying the GeoPandas library to plot datapoints via (Latitude and Longitude). 
 
+
+Project_10: Analysis of Housing Market in Florida and Miami: A Jupyter notebook project focusing on the increase of real estate for first time home buyers. It uses the Mean Squared Error to understand patterns between datapoints and access the most affordable home prices in Miami. 
+
